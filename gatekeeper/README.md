@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+this is just the scaffold , don't expect any code here
 ## Getting Started
 
 This project is a starting point for a Flutter application.
